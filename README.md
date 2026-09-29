@@ -4,7 +4,7 @@
 <h4> >Projeto: sobre cunho social</h4>
 <h4> >Nome: Justiça e Acolhimento</h4>
 <h4> >Objetivo: Desenvolver um site web um site de ajuda, prevenção, casos criminais e etc, na cidade de Aguas lindas de Goiás</h4>
-<h4>Participantes: Andressa, Thauanyy, Michaelle, Nicoly</h4>
+<h4>Participantes: Andressa, Thauany, Michaelle, Nicoly</h4>
 
 
 <h5>LOGO DA EMPRESA</h5>
